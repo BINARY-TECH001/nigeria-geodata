@@ -1,0 +1,31 @@
+{
+  "name": "nigeria-geodata",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/binary-tech001/nigeria-geodata",
+  "repository": {
+    "url": "https://github.com/BINARY-TECH001/nigeria-geodata"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "nigeria",
+    "states",
+    "local",
+    "governments",
+    "cities",
+    "react",
+    "typescript",
+    "nextjs"
+  ],
+  "author": "binarytech001",
+  "license": "MIT",
+  "description": "Package to get all nigeria states, local governments and their cities",
+  "devDependencies": {
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  }
+}
